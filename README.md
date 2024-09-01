@@ -31,3 +31,6 @@ npm run dev
 Feel free to contribute to this project by submitting pull requests or opening issues. Contributions are welcome!
 
 # Support
+https://buymeacoffee.com/pranaya
+
+# Live Demo
