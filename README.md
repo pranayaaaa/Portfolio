@@ -18,8 +18,8 @@ This is a portfolio application that showcases projects, skills, and other relev
 To run this project locally, follow these steps:
 
 1. Clone the Repository
-a. git clone https://github.com/yourusername/Portfolio.git
-b. cd Portfolio
+git clone https://github.com/yourusername/Portfolio.git
+cd Portfolio
 
 2.Install Dependencies
 npm install 
